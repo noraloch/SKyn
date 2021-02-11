@@ -1,0 +1,2 @@
+class HeroIngredient < ApplicationRecord
+end

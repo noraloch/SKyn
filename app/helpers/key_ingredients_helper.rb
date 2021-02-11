@@ -1,0 +1,2 @@
+module KeyIngredientsHelper
+end

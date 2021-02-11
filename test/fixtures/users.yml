@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  username: MyString
+  age: 1
+  skin_type: MyString
+  skin_goal: MyString
+  acne: false
+  sun_exposure: MyString
+  humidity_exposure: MyString
+
+two:
+  username: MyString
+  age: 1
+  skin_type: MyString
+  skin_goal: MyString
+  acne: false
+  sun_exposure: MyString
+  humidity_exposure: MyString

@@ -1,0 +1,2 @@
+class HeroIngredientsController < ApplicationController
+end
